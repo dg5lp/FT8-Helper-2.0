@@ -1,0 +1,6 @@
+FTRU RU
+IM JM KM IO JO KO IN JN KN JP KP LO LP
+D1
+; it will accept CQ EU and DL, but no CQ JA, AS AF etc.
+; Stations calling DX from the listed QRA locators are not accepted
+; Modify it according your location  and needs,
