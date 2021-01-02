@@ -2,7 +2,8 @@ FT8-Helper-2.0 is the new release cadidate (RC)
 
 New in version 2.0 released on 02.01.2021
 
-- Configuration session instead of editing with "notepad".  No need of ownloc.txt. The configuration is stored in "config.txt". 
+- Configuration session instead of editing with "notepad".  
+- No need of ownloc.txt. The configuration is stored in "config.txt". 
 - New parameter, e.g. number of repetitions during call, QSO and QSO-end can be configured.
 - Band-Hopping: re-designed, now it allows selecting FT8 and FT4, even for the same band.
 - Enhanced Filter in S/P-Mode: Best-S/N, DX-Only, Prefer-DX, Most distance, Prefer-Wanted, Only-Wanted.
