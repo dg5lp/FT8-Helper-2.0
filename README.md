@@ -1,6 +1,6 @@
-FT8-Helper-2.0 is the new release cadidate (RC)
+FT8-Helper-2.1 is the latest release
 
-New in version 2.0 released on 02.01.2021
+New in version 2.1 released on 21.01.2021
 
 - Configuration session instead of editing with "notepad".  
 - No need of ownloc.txt. The configuration is stored in "config.txt". 
