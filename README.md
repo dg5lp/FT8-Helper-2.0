@@ -1,6 +1,6 @@
-FT8-Helper-2.1 is the latest release
+FT8-Helper-2.1.c is the latest release
 
-New in version 2.1 released on 21.01.2021
+New in version 2.1.c released on 29.01.2021
 
 - Configuration session instead of editing with "notepad".  
 - No need of ownloc.txt. The configuration is stored in "config.txt". 
