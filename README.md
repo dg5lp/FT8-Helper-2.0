@@ -1,4 +1,4 @@
-FT8-Helper-2.1.c is the latest release
+# FT8-Helper-2.1.c
 
 New in version 2.1.c released on 29.01.2021
 
