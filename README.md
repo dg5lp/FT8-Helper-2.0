@@ -4,7 +4,7 @@ The FT8-Helper program was developed as macro extension for the JTDX using the Q
 
 Main Features of V2.1:
 
-    Automatic operation in both "CQ" and "S/P" mode.
+- Automatic operation in both "CQ" and "S/P" mode.
     Automatic find of free frequency in CQ-mode
     Automatic changes between CQ and S/P mode with programmable intervals, dependng on band activity.
 
