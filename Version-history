@@ -5,7 +5,7 @@ v2.1.e
 
 v2.1.d
 - Support of WSJT-X v2.3
-- Incoming and outgoing RRR procedures are fixed
+- Incoming and outgoing RRR procedures were fixed
 - Calling stations after successfull QSOs was fixed
 
 v2.1.c
