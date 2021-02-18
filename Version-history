@@ -1,4 +1,9 @@
 Version History
+
+v2.1.f released on 18.02,2021
+- In CQ-Mode, if a station called at the end of a QSO, the TX-Frequency
+  jumped to the frequency of the caller stations. Now, this bug was fixed.
+
 v2.1.e
 - WSJT-X works with "default" configuration. (No FT-mode mismatch issue)
 - Bug in "Wanted list" was fixed
