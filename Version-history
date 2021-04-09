@@ -1,5 +1,9 @@
 Version History
 
+v2.1.g released on 09.04.2021
+ When calling CQ and two station answers, the second station will be called back at the end of the QSO.
+- Stations calling during a QSO will be called back at the end of the QSO.
+
 v2.1.f released on 18.02,2021
 - In CQ-Mode, if a station called at the end of a QSO, the TX-Frequency
   jumped to the frequency of the caller stations. Now, this bug was fixed.
