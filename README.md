@@ -20,6 +20,7 @@ Various strategies in S/P-mode, Call stations with:
     Only Wanted (according to wanted lists)
     Exclude stations, präfixes and DXCC-entities according to exclude lists
     Keep-Even/Odd cycle for 6m DX-ing
+    Opens the QRZ.com page of the QSO partner station
 
 Band-Hopping
 
